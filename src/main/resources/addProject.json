@@ -1,0 +1,13 @@
+ {
+        "projectName": "Mock Project",
+        "startDate": "10/23/2018",
+        "endDate": "11/25/2018",
+        "priority": "0",
+        "status": "completed",
+        "userObject": {
+             "userId": 2,
+    		 "firstName": "Basha",
+        	 "lastName": "Manik",
+        	 "employeId": 9856
+        }
+}
